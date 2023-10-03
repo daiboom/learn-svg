@@ -95,3 +95,18 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+
+.line {
+  fill: none;
+  stroke-width: 2px;
+}
+
+.dot {
+  stroke-width: 2px;
+  fill: white;
+}
+
+.fa-camera-retro:before {
+  content: "\f083";
+}
